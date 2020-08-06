@@ -1,6 +1,9 @@
 # BadwordsForAGC
 Bismillah .
 
-This is Badword Collections For AGC separate with '|' It's Still Works .
+It's Still Works .
 
-First Made By Optimasi AGC @suhu Syera Syailendra , for now im just add an updates of this file if i get some warn from Google Adsense . feel free to pull and add some words of badwords . Thankyou
+Google Adsense was sensitify with sexy images , it's to risky if AGC not filtered by this badwords . 
+This is Badword List , Collections since 2013 special For AGC Image Search , this file was separate with '|' . 
+
+First Made By Optimasi AGC @suhu Syera Syailendra , for now im just add an updates of this file if i get some warn from Google Adsense . feel free to fork or pull this repo , also you can commit send your github and i'll add for commit permission . Thankyou
