@@ -1,8 +1,6 @@
 # BadwordsForAGC
 Bismillah .
 
-It's Still Works .
-
 Google Adsense is very sensitify with s*xy images , it's to risky if AGC hasn't filtered by this badwords . 
 This Badword List is my Collections since 2013 special For AGC Image Search , this file separate with '|' . 
 
